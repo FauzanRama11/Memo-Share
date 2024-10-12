@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750232453198",
+    "project_id": "testing-73c98",
+    "storage_bucket": "testing-73c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750232453198:android:08506ce57335b77944831f",
+        "android_client_info": {
+          "package_name": "com.example.memoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750232453198-4qk97qf2sh5sqmj97jcl20oe0o5im34m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlHTcA5VJq7Ac49Z04FDNGJ2K2Qvu2xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750232453198-4qk97qf2sh5sqmj97jcl20oe0o5im34m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
